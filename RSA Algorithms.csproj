@@ -54,7 +54,6 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
-    <Compile Include="RsaFormatter.cs" />
     <Compile Include="RsaMath.cs" />
     <Compile Include="RsaModels.cs" />
     <Compile Include="RsaStorage.cs" />
